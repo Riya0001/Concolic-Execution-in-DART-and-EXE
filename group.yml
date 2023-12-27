@@ -1,0 +1,13 @@
+# Enter your personal information and delete unused entries
+--- 
+- first: Dilpreet
+  last: Singh
+  watiam: d29singh
+  student: 21049904
+  email: d29singh@uwaterloo.ca
+- first: Riya
+  last: Desai
+  watiam: rs2desai
+  student: 21017404
+  email: rs2desai@uwaterloo.ca
+...
